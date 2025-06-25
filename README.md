@@ -1,0 +1,1 @@
+# Generacion_Automatica_de_Diagnosticos_Medicos_Sinteticos_con_LLMs_y_Etiquetado_CIE_10
