@@ -1,0 +1,17 @@
+openai==1.82.1
+pydantic==2.11.5
+pydantic-settings==2.9.1
+pandas==2.2.3
+matplotlib==3.10.3
+# vllm==0.9.0.1
+langchain_openai==0.3.21
+# transformers==4.38.2
+transformers==4.52.4
+sentence_transformers==4.1.0
+seaborn==0.13.2
+iterative-stratification==0.1.9
+sacrebleu==2.5.1
+datasets==3.6.0
+peft==0.15.2
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
